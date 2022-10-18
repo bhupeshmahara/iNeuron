@@ -48,7 +48,7 @@
    ![docker push](https://user-images.githubusercontent.com/70663493/196439469-fdeae918-de94-47bb-9d02-725aec8ae00a.PNG)
    ![docker container](https://user-images.githubusercontent.com/70663493/196439539-a1929eae-0b7a-4962-a19c-3772a1e01be5.PNG)
 
-10. **docker rmi -f <repository-name>/<image-name>** : removes the docker repository and image name
+10. **docker rmi -f "repository-name"/"image-name"** : removes the docker repository and image name
   
     ![docker rmi](https://user-images.githubusercontent.com/70663493/196439634-29e37925-cf91-4e61-a53e-9b17c2df7e15.PNG)
 
