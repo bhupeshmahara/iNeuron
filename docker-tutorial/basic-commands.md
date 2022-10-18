@@ -39,11 +39,11 @@
   
    ![docker run new](https://user-images.githubusercontent.com/70663493/196439151-ef93c2e3-488b-4db9-84f0-98966c6e18aa.PNG)
 
-8. **docker stop <container-id>** : stops the docker
+8. **docker stop "image-id"** : stops the docker
   
    ![docker stop](https://user-images.githubusercontent.com/70663493/196439417-62b6c0cf-caca-4997-be39-0230ed227e5f.PNG)
 
-9. **docker push <repository-name>/<image-name>** : push the docker container to docker hub
+9. **docker push "repository-name"/"image-name"** : push the docker container to docker hub
   
    ![docker push](https://user-images.githubusercontent.com/70663493/196439469-fdeae918-de94-47bb-9d02-725aec8ae00a.PNG)
    ![docker container](https://user-images.githubusercontent.com/70663493/196439539-a1929eae-0b7a-4962-a19c-3772a1e01be5.PNG)
