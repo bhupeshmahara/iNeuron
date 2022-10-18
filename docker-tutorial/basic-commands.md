@@ -39,7 +39,7 @@
   
    ![docker run new](https://user-images.githubusercontent.com/70663493/196439151-ef93c2e3-488b-4db9-84f0-98966c6e18aa.PNG)
 
-8. **docker stop "image-id"** : stops the docker
+8. **docker stop "container-id"** : stops the docker
   
    ![docker stop](https://user-images.githubusercontent.com/70663493/196439417-62b6c0cf-caca-4997-be39-0230ed227e5f.PNG)
 
