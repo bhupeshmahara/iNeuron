@@ -1,4 +1,4 @@
-# creating docker image
+# creating a docker image
 
 # this will fetch python 3.7 version from docker
 FROM python:3.7
